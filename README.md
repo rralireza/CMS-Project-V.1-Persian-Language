@@ -1,7 +1,7 @@
 # CMS-Project-V.1-Persian-Language-
 I Made a CMS for a News website and there's some options like add, edit, delete and generally manage Articles and Categories. I'll improve it in the future.
 
-The template of CMS isn't for me. Actually i developed the Server-Side of this CMS Panel and User-Side is Created by "Jafar Abbasi".
+The template of CMS isn't belong to me. Actually i developed the Server-Side of this CMS Panel and User-Side is Created by "Jafar Abbasi".
 
 در این «سیستم مدیریت محتوا» شما می‌توانید از بخش دسته بندی، دسته بندی‌های موردنظر خودتان را اضافه و در صورت نیاز، آن‌ها را در مدیریت کنید. مدیریت دسته بندی به معنای مشاهده، حذف یا ویرایش دسته‌بندی‌های به ثبت رسیده‌ی قبلی است.
 
