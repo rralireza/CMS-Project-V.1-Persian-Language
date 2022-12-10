@@ -3,6 +3,8 @@ I Made a CMS for a News website and there's some options like add, edit, delete 
 
 The template of CMS isn't belong to me. Actually i developed the Server-Side of this CMS Panel and User-Side is Created by "Jafar Abbasi".
 
+For read the codes, Please get to "master" branch.
+
 در این «سیستم مدیریت محتوا» شما می‌توانید از بخش دسته بندی، دسته بندی‌های موردنظر خودتان را اضافه و در صورت نیاز، آن‌ها را در مدیریت کنید. مدیریت دسته بندی به معنای مشاهده، حذف یا ویرایش دسته‌بندی‌های به ثبت رسیده‌ی قبلی است.
 
 در ادامه شما می‌توانید از قسمت اضافه کردن نوشته، یک مقاله، خبر و به طور کلی یک نوشته‌ی جدید را به وب سایت خود اضافه کنید. مثل بخش دسته‌بندی، شما می‌توانید نوشته‌های قبلی خودتان را مدیریت کنید. 
@@ -11,3 +13,6 @@ The template of CMS isn't belong to me. Actually i developed the Server-Side of 
 
 
 بزودی، در همین بخش اطلاعاتی درمورد قابلیت‌های جدید این «سیستم تولید محتوا» در نسخه‌های بعدی منتشر می‌کنم.
+
+
+برای مشاهده‌ی کدها، لطفا به برنچ مستر مراجعه کنید.
