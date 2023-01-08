@@ -1,9 +1,13 @@
-# CMS-Project-V.1-Persian-Language-
+For read the codes, Please get to "master" branch.
+
+CMS Project V.1 Persian Language
 I Made a CMS for a News website and there's some options like add, edit, delete and generally manage Articles and Categories. I'll improve it in the future.
 
 The template of CMS isn't belong to me. Actually i developed the Server-Side of this CMS Panel and User-Side is Created by "Jafar Abbasi".
 
-For read the codes, Please get to "master" branch.
+
+برای مشاهده‌ی کدها، لطفا به برنچ مستر مراجعه کنید.
+
 
 در این «سیستم مدیریت محتوا» شما می‌توانید از بخش دسته بندی، دسته بندی‌های موردنظر خودتان را اضافه و در صورت نیاز، آن‌ها را در مدیریت کنید. مدیریت دسته بندی به معنای مشاهده، حذف یا ویرایش دسته‌بندی‌های به ثبت رسیده‌ی قبلی است.
 
@@ -15,4 +19,3 @@ For read the codes, Please get to "master" branch.
 بزودی، در همین بخش اطلاعاتی درمورد قابلیت‌های جدید این «سیستم تولید محتوا» در نسخه‌های بعدی منتشر می‌کنم.
 
 
-برای مشاهده‌ی کدها، لطفا به برنچ مستر مراجعه کنید.
